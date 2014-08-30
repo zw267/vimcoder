@@ -26,11 +26,9 @@ using namespace std;
 
 // }}}
 
-class $CLASSNAME$
-{
+class $CLASSNAME$ {
 public:
-	$RETURNTYPE$ $METHODNAME$($METHODPARAMS$)
-	{
+	$RETURNTYPE$ $METHODNAME$($METHODPARAMS$) {
 		return $RETURNTYPE$();
 	}
 };
