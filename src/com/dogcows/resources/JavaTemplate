@@ -12,6 +12,6 @@ import java.util.*;
 // }}}
 
 public class $CLASSNAME$ {
-	public $RETURNTYPE$ $METHODNAME$($METHODPARAMS$) {
-	}
+    public $RETURNTYPE$ $METHODNAME$($METHODPARAMS$) {
+    }
 }

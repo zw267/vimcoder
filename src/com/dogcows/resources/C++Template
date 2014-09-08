@@ -28,7 +28,7 @@ using namespace std;
 
 class $CLASSNAME$ {
 public:
-	$RETURNTYPE$ $METHODNAME$($METHODPARAMS$) {
-		return $RETURNTYPE$();
-	}
+  $RETURNTYPE$ $METHODNAME$($METHODPARAMS$) {
+    return $RETURNTYPE$();
+  }
 };
